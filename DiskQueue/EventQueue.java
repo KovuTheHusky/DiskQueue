@@ -1,0 +1,1 @@
+public class EventQueue extends PriorityQueueAsc<Event> { }
